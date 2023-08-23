@@ -17,3 +17,5 @@ Collaborated with a diverse team to identify actionable
 recommendations based on analysis, resulting in the
 implementation of process improvements that reduced
 customer query response time by 40%.
+
+![Capture](https://github.com/ShivamPawar12/Vrinda-Store-Data-Analysis-in-Excel/assets/115694439/5668512d-2704-4556-91f7-1a81496adafc)
